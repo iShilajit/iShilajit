@@ -1,7 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/99752799/169089477-cc5a5841-f39d-4d5c-8a85-86a9cc8f786e.gif)](https://github.com/iShilajit)
 <h1 align="center">Hi 👋, I'm Shilajit Paul</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
 <br/>
 <br/>
+
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Genius" width="400" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishilajit&label=Profile%20views&color=0e75b6&style=flat" alt="ishilajit" /> </p>
