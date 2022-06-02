@@ -17,7 +17,12 @@
 
 - 📫 How to reach me *shilajit2014paul@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
+
+<i>Let's Connect !!<animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" data-target="animated-image.originalLink" hidden=""><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" target="_blank">
+          
+       
 <p align="left">
 <a href="https://twitter.com/ishilajitpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishilajitpaul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shilajit-paul-a7aba7153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilajit-paul-a7aba7153" height="30" width="40" /></a>
