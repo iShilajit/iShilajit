@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/99752799/169089477-cc5a5841-f39d-4d5c-8a85-86a9cc8f786e.gif)](https://github.com/iShilajit)
 <h1 align="center">Hi 👋, I'm Shilajit Paul</h1>
-<h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack </h3>
+<h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code. </h3>
 <br/>
 <br/>
 
