@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Shilajit Paul</h1>
 <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code. </h3>
 <br/>
+<p align= "center">
+<img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
+<img src="https://img.shields.io/badge/E-Express-black"/>
+<img src="https://img.shields.io/badge/R-React-skyblue"/>
+<img src="https://img.shields.io/badge/N-Node-green"/>
+<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
+</p>
 <br/>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Genius" width="400" align="right"/>
