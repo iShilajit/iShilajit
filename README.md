@@ -3,11 +3,18 @@
 <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code. </h3>
 <br/>
 <p align= "center">
+<img src="https://img.shields.io/badge/H-HTML-orange"/>
+<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
+<img src="https://img.shields.io/badge/R-React-skyblue"/>
+<img src="https://img.shields.io/badge/%E2%9C%8C%EF%B8%8F-Tailwind%20CSS-blue"/>
+<img src="https://img.shields.io/badge/N-Node-green"/>
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
 <img src="https://img.shields.io/badge/E-Express-black"/>
-<img src="https://img.shields.io/badge/R-React-skyblue"/>
-<img src="https://img.shields.io/badge/N-Node-green"/>
-<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
+
+
+
+
+
 </p>
 <br/>
 
