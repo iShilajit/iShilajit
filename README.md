@@ -43,10 +43,24 @@
 <i>GitHub's Stats <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966"><img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35" style="max-width: 100%;"></a></i>
               
               
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iShilajit)](https://github.com/iShilajit)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishilajit&show_icons=true&locale=en&layout=compact" alt="ishilajit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishilajit&show_icons=true&locale=en" alt="ishilajit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishilajit&" alt="ishilajit" /></p>
+<br />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iShilajit&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="iShilajit" /></p>
+<p align="center">
+    <a href="https://github.com/iShilajit">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iShilajit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/iShilajit"><img alt="Shilajit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iShilajit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
+<br />
+
+[![shilajit Paul GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iShilajit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/iShilajit)
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>
