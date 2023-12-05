@@ -25,7 +25,6 @@
 <p align="left"> <a href="https://twitter.com/ishilajitpaul" target="blank"><img src="https://img.shields.io/twitter/follow/ishilajitpaul?logo=twitter&style=for-the-badge" alt="ishilajitpaul" /></a> </p>
 - 🔭 I’m a *Full Stack Web Developer*
 
-- 🌱 I’m currently learning *MERN Stack*
 
 - 💬 Ask me about *HTML, CSS, Javascript & React*
 
